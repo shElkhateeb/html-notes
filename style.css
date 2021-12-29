@@ -1,4 +1,5 @@
 h2 {color: purple;}
+h2:hover {text-decoration: underline;}
 h1 {color: greenyellow; background-color: rgb(80, 5, 120); text-align: center;
     padding: 1em; margin: 0em; font-family: 'Grechen Fuemen', cursive;}
 body {font-size: 1.2em; }
