@@ -1,0 +1,8 @@
+h2 {color: purple;}
+h1 {color: greenyellow; background-color: rgb(80, 5, 120); text-align: center;
+    padding: 1em; margin: 0em; font-family: 'Grechen Fuemen', cursive;}
+body {font-size: 1.2em; }
+.definitions {background-color: lightgray; font-family: monospace;}
+.definitions h2 {font-family: 'Fjalla One', serif;}
+.asobi {background-color: lavender; font-family: cursive;}
+div {padding: 0.5em;}
